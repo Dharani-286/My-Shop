@@ -1,0 +1,51 @@
+img{
+    align-items: center;
+    border-radius: 50px;
+    width: 70px;
+    height: 60px;
+    border:3px solid rgb(0, 114, 136);
+    margin-top: 10px;
+}
+div{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: linear-gradient(to left,rgb(231, 52, 231)) ;;
+    width: 100vw;
+    height: 100vh;
+    border-radius: 5px;
+}
+.namebox{
+    align-items: center;
+    background-color: whitesmoke;
+    color:black;
+    justify-content: center;
+    margin-top: 20px;
+}
+.pinbox{
+    align-items: center;
+    background-color: whitesmoke;
+    color:black;
+    justify-content: center;
+    margin-top: 10px;
+}
+.btn{
+    background-color: blanchedalmond;
+    align-items: center;
+    color: black;
+    border-radius: 20px;
+    width:40px;
+    box-shadow: 3px;
+}
+.bth:hover{
+    background-color: aquamarine;
+    cursor: pointer;
+}
+.terms{
+    color:red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    margin-left: 2px;
+    margin-top: 60px;
+}

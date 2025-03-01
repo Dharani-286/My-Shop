@@ -1,0 +1,16 @@
+p{
+    font-size: medium;
+    font-style:bold;
+    text-align: center;
+}
+h1{
+    color: brown;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 1px;
+}
+.heading{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top:0px;
+}
